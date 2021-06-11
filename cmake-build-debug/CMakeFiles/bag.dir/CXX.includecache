@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/trubi/CLionProjects/bag/w1/Bag.cpp
+Bag.h
+C:/Users/trubi/CLionProjects/bag/w1/Bag.h
+
+C:/Users/trubi/CLionProjects/bag/w1/Bag.h
+vector
+-
+BagInterface.h
+C:/Users/trubi/CLionProjects/bag/w1/BagInterface.h
+
+C:/Users/trubi/CLionProjects/bag/w1/BagInterface.h
+vector
+-
+
+C:/Users/trubi/CLionProjects/bag/w1/main.cpp
+iostream
+-
+string
+-
+Bag.cpp
+C:/Users/trubi/CLionProjects/bag/w1/Bag.cpp
+
